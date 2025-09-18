@@ -1,0 +1,5 @@
+Jupyter notebook
+numpy
+Scikit-Learn
+TensorFlow
+Matplotlib
