@@ -1,5 +1,5 @@
-Jupyter notebook
+notebook
 numpy
-Scikit-Learn
-TensorFlow
-Matplotlib
+scikit-learn
+tensorflow
+matplotlib
